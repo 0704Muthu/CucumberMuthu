@@ -1,0 +1,351 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "capture a screenshot",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6765652000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user can take a snap at every scenario",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_take_a_snap_at_every_scenario()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-08-09T16:03:33.610Z",
+        "line": 8,
+        "name": "Search a Some Product in amazon Home page",
+        "description": "",
+        "id": "buy-a-product-by-enduser;search-a-some-product-in-amazon-home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 54919100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user can able to launch the amazon homepage",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_able_to_launch_the_amazon_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6642121200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user can pass the data in input field",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_pass_the_data_in_input_field()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1271600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user can select a random product in present page",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_select_a_random_product_in_present_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 37905700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user can get a title and validate",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_get_a_title_and_validate()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "capture a screenshot",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4676022700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user can take a snap at every scenario",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_take_a_snap_at_every_scenario()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-08-09T16:03:47.329Z",
+        "line": 26,
+        "name": "Search a Some Product in amazon Home page with different datas",
+        "description": "",
+        "id": "buy-a-product-by-enduser;search-a-some-product-in-amazon-home-page-with-different-datas;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 85927200,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user can able to launch the amazon homepage",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_able_to_launch_the_amazon_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5245797000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user can pass the data  in \"grocerry\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"grocerry\"",
+                  "offset": 27
+                }
+              ],
+              "location": "com.stepDefinition.StepAmazon.user_can_pass_the_data_in(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 448600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user can select a random product in present page",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_select_a_random_product_in_present_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 115149600,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user can get a title and validate",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_get_a_title_and_validate()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "capture a screenshot",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4363660900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user can take a snap at every scenario",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_take_a_snap_at_every_scenario()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-08-09T16:03:57.466Z",
+        "line": 27,
+        "name": "Search a Some Product in amazon Home page with different datas",
+        "description": "",
+        "id": "buy-a-product-by-enduser;search-a-some-product-in-amazon-home-page-with-different-datas;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 17458800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user can able to launch the amazon homepage",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_able_to_launch_the_amazon_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4102823600,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user can pass the data  in \"homeappliance\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"homeappliance\"",
+                  "offset": 27
+                }
+              ],
+              "location": "com.stepDefinition.StepAmazon.user_can_pass_the_data_in(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1096800,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user can select a random product in present page",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_select_a_random_product_in_present_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 208299800,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user can get a title and validate",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_get_a_title_and_validate()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "capture a screenshot",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4403410700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user can take a snap at every scenario",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_take_a_snap_at_every_scenario()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-08-09T16:04:06.187Z",
+        "line": 28,
+        "name": "Search a Some Product in amazon Home page with different datas",
+        "description": "",
+        "id": "buy-a-product-by-enduser;search-a-some-product-in-amazon-home-page-with-different-datas;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10899700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user can able to launch the amazon homepage",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_able_to_launch_the_amazon_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4203538300,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user can pass the data  in \"toys\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"toys\"",
+                  "offset": 27
+                }
+              ],
+              "location": "com.stepDefinition.StepAmazon.user_can_pass_the_data_in(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1042300,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user can select a random product in present page",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_select_a_random_product_in_present_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 730096000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user can get a title and validate",
+            "match": {
+              "location": "com.stepDefinition.StepAmazon.user_can_get_a_title_and_validate()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Buy a Product by enduser",
+    "description": "",
+    "id": "buy-a-product-by-enduser",
+    "keyword": "Feature",
+    "uri": "file:src/main/java/com/feature/amazon.feature",
+    "tags": []
+  }
+]
